@@ -1,0 +1,24 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+img#portrait {
+    width: 700px;
+}
+
+main {
+    
+}
