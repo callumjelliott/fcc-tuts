@@ -1,0 +1,24 @@
+html {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    background-color: lightblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+form {
+    background-color: lightgrey;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+p#description {
+    font-size: 2em;
+}
+
+#form-group {
+    padding: 5px;
+}
