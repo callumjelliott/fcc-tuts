@@ -15,10 +15,7 @@ h2 {
     font-size: 2rem;
 }
 
-img#portrait {
+img#image {
     width: 700px;
-}
-
-main {
-    
+    max-width:100%;
 }
