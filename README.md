@@ -9,3 +9,6 @@ Note: I have specifically focussed on each requirement and not the look-and-feel
 
 ## Product landing
 [https://elliottcal.github.io/fcc-tuts/responsive-projects/product-landing/](https://elliottcal.github.io/fcc-tuts/responsive-projects/product-landing/)
+
+## Technical documentation
+[https://elliottcal.github.io/fcc-tuts/responsive-projects/technical-documentation/](https://elliottcal.github.io/fcc-tuts/responsive-projects/technical-documentation/)

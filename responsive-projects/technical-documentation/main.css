@@ -1,0 +1,28 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    height: 200vh;
+}
+
+nav {
+    position: fixed;
+}
+
+main {
+    margin-left: 300px;
+}
+
+@media (max-width: 650px) {
+    body {
+        flex-direction: column;
+    }
+    main {
+         margin-left: 0px;
+    }
+    nav {
+        position: static;
+    }
+}
