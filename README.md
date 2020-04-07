@@ -6,3 +6,6 @@ Note: I have specifically focussed on each requirement and not the look-and-feel
 
 ## Survey form
 [https://elliottcal.github.io/fcc-tuts/responsive-projects/survey-form/](https://elliottcal.github.io/fcc-tuts/responsive-projects/survey-form/)
+
+## Product landing
+[https://elliottcal.github.io/fcc-tuts/responsive-projects/product-landing/](https://elliottcal.github.io/fcc-tuts/responsive-projects/product-landing/)
