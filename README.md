@@ -12,3 +12,6 @@ Note: I have specifically focussed on each requirement and not the look-and-feel
 
 ## Technical documentation
 [https://elliottcal.github.io/fcc-tuts/responsive-projects/technical-documentation/](https://elliottcal.github.io/fcc-tuts/responsive-projects/technical-documentation/)
+
+## Portfolio page
+[https://elliottcal.github.io/fcc-tuts/responsive-projects/portfolio-page/](https://elliottcal.github.io/fcc-tuts/responsive-projects/portfolio-page/)
