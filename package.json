@@ -1,0 +1,20 @@
+{
+  "name": "fcc-tuts",
+  "version": "1.0.0",
+  "description": "Note: I have specifically focussed on each requirement and not the look-and-feel of the sites, so I know they need a lot of tweaking before they would be published!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliottcal/fcc-tuts.git"
+  },
+  "keywords": [],
+  "author": "Callum Elliott <callum@jorvik.it> (https://jorvik.it)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliottcal/fcc-tuts/issues"
+  },
+  "homepage": "https://github.com/elliottcal/fcc-tuts#readme"
+}
